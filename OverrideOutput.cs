@@ -13,7 +13,7 @@ namespace OverrideVsOverload
          * This class serves as our derived class.  The methods in here that are marked
          * with the override keyword will overwrite methods in the base class.  Methods
          * created in the base class can be used by this derived class as long as they are
-         * markted public or protected.
+         * marked public or protected.
          */
 
         /*
