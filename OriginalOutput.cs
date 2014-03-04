@@ -20,7 +20,7 @@ namespace OverrideVsOverload
          * OVERLOAD EXPLANATION (also see OverrideOutput.cs line:20)
          * The following two methods have the same name but are passed different types 
          * of parameters.  Although the names are the same, your code will choose the 
-         * correct function based on the type of parameter passed with it.  You must
+         * correct function based on the type of parameter passed with it.  You must pass
          * different parameters passed to each version of the function for this to work.
          */
         public virtual void ShowOutput(int i)
